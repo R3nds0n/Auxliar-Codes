@@ -42,8 +42,8 @@ def unidade(browser):
 
 if __name__ == '__main__':
     url = 'https://ref.gestorjuridico.com.br/Paginas/Principal/_FSet_Abertura.asp'
-    username = 'agp.e-xyon'
-    password = '417j3l'
+    username = ''
+    password = ''
     option = 1
     br = call_driver(url, option)
     try:
